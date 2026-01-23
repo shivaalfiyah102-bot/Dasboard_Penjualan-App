@@ -1,6 +1,11 @@
+# Gambar Tampilan Admin
+
 <img width="1917" height="1030" alt="input admin" src="https://github.com/user-attachments/assets/56c19c2e-255f-44bc-82c2-347001a8064c" />
 
-<img width="1907" height="1020" alt="admin" src="https://github.com/user-attachments/assets/7a685a66-3a7c-4cc1-9ebf-6625475e77c5" />
+# Gambar Tampilan User
+
+<img width="1907" height="1028" alt="manajemen user admin" src="https://github.com/user-attachments/assets/cdd2b567-b275-4129-88b3-c398d8424bba" />
+
 
 # Dashboard Penjualan Berbasis Streamlit
 
