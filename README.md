@@ -1,3 +1,7 @@
+<img width="1917" height="1030" alt="input admin" src="https://github.com/user-attachments/assets/56c19c2e-255f-44bc-82c2-347001a8064c" />
+
+<img width="1907" height="1020" alt="admin" src="https://github.com/user-attachments/assets/7a685a66-3a7c-4cc1-9ebf-6625475e77c5" />
+
 # Dashboard Penjualan Berbasis Streamlit
 
 Aplikasi ini merupakan dashboard penjualan berbasis web yang dikembangkan menggunakan framework **Streamlit**. Aplikasi digunakan untuk menampilkan dan menganalisis data penjualan secara interaktif melalui visualisasi dan tabel, serta dilengkapi dengan sistem autentikasi pengguna.
@@ -25,7 +29,6 @@ DASBOARD/
 ├── requirements.txt
 
 └── sales_data.db
-
 
 Keterangan:
 
