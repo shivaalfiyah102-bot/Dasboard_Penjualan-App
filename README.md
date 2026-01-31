@@ -6,6 +6,7 @@
 
 <img width="1907" height="1028" alt="manajemen user admin" src="https://github.com/user-attachments/assets/cdd2b567-b275-4129-88b3-c398d8424bba" />
 
+
 # Dashboard Penjualan Berbasis Streamlit
 
 Aplikasi ini merupakan dashboard penjualan berbasis web yang dikembangkan menggunakan framework **Streamlit**. Aplikasi digunakan untuk menampilkan dan menganalisis data penjualan secara interaktif melalui visualisasi dan tabel, serta dilengkapi dengan sistem autentikasi pengguna.
